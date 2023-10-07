@@ -7,7 +7,7 @@ void main() {
   num1 = int.parse(stdin.readLineSync()!);
   print("Enter Numer 2:");
   num2 = int.parse(stdin.readLineSync()!);
-  print("num1 + num2");
+  print("Addition:");
   print(num1 + num2);
   print("Subtraction:");
   print(num1 - num2);
