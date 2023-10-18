@@ -1,9 +1,10 @@
+//Write a program you have to print the table of given number
+
 import 'dart:io';
 
 void main() {
   int num;
   int i;
-  int a = 1231;
   print("Enter Table number:");
   num = int.parse(stdin.readLineSync()!);
   print("\n");
