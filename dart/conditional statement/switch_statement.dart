@@ -8,6 +8,7 @@ void main() {
     case 1:
       {
         print("You got vadapav");
+        break;
       }
     case 2:
       {
